@@ -1,23 +1,20 @@
-Mi primera app Flutter 🚀
+# 📱 Flutter + Firebase
 
-Aplicación desarrollada en Flutter que muestra:
+Aplicación desarrollada en Flutter que integra Firebase Firestore como servicio de base de datos.
 
-* Título: Welcome to Flutter
-* Texto centrado: Hello World
+## 🚀 Funcionalidad
 
-🌐 Consumo de API
+* Conexión con Firebase
+* Almacenamiento de datos en Firestore
+* Interfaz Flutter funcional
 
-La aplicación realiza peticiones HTTP utilizando la librería http en Flutter.
-
-Se utiliza la API pública PokeAPI para obtener datos en formato JSON, los cuales son procesados y mostrados dinámicamente en la interfaz de usuario.
-
-## Tecnologías usadas
+## 🛠 Tecnologías utilizadas
 
 * Flutter
 * Dart
 * Firebase
+* Cloud Firestore
 
-Se integró Firebase con Flutter utilizando Firebase Core y Cloud Firestore. La aplicación permite almacenar información en una base de datos en la nube mediante una conexión activa con Firebase, demostrando la integración de servicios backend en aplicaciones móviles.
-## Autor
+## 👤 Autor
 
 * Ángel Abraham
