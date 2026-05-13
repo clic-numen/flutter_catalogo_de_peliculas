@@ -15,7 +15,9 @@ Se utiliza la API pública PokeAPI para obtener datos en formato JSON, los cuale
 
 * Flutter
 * Dart
+* Firebase
 
+Se integró Firebase con Flutter utilizando Firebase Core y Cloud Firestore. La aplicación permite almacenar información en una base de datos en la nube mediante una conexión activa con Firebase, demostrando la integración de servicios backend en aplicaciones móviles.
 ## Autor
 
 * Ángel Abraham
